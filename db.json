@@ -5,7 +5,7 @@
     "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3e1f6e5c-5238-4ecc-a0d5-f2deff1e4fb4/dcge67r-261eb5af-66f8-4786-94ac-bd535876fd45.png",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+        "image": "https://media.giphy.com/media/4N5ddOOJJ7gtKTgNac/giphy.gif",
         "title": "O que significa Linux?",
         "description": "Essa é pra aquecer",
         "answer": 2,
@@ -17,7 +17,7 @@
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "image": "https://media.giphy.com/media/TOWeGr70V2R1K/giphy.gif",
         "title": "Qual desses sistemas opeacionais não é baseado em kernel Linux",
         "description": "Moleza em haha",
         "answer": 2,
@@ -29,7 +29,7 @@
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "image": "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif",
         "title": "Qual desses comandos não funcionam no Linux?",
         "description": "Moleza em haha",
         "answer": 3,
@@ -41,7 +41,7 @@
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "image": "https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif",
         "title": "O comando ls é usado para criar arquivos no Linux",
         "description": "Moleza em haha",
         "answer": 1,
@@ -51,7 +51,7 @@
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "image": "https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif",
         "title": "Qual desse não é uma interface de Linux?",
         "description": "Moleza em haha",
         "answer": 2,
@@ -65,6 +65,7 @@
     ],
     
     "external": [
+      "https://alura-quiz-linux.heinrick7.vercel.app/",
       "https://aluraquiz-css.omariosouto.vercel.app/",
       "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
     ],
