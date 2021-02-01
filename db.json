@@ -1,34 +1,72 @@
 {
     "bg": "https://wallpapersfortech.com/wp-content/uploads/2020/09/Kali-Linux-Black-Wallpaper.png",
-    "title": "Quiz CSS da Alura",
+    "title": "Linux Quiz",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3e1f6e5c-5238-4ecc-a0d5-f2deff1e4fb4/dcge67r-261eb5af-66f8-4786-94ac-bd535876fd45.png",
     "questions": [
       {
         "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "title": "O que significa Linux?",
         "description": "Essa é pra aquecer",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "2elemento",
-          "3elemento",
-          "4elemento"
+          "Sistema de terminais lineares",
+          "Livraria de núcleo extendido ",
+          "Linus Torvalds Unix",
+          "Nenhuma das alternatiavs "
         ]
       },
       {
         "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
-        "answer": 0,
+        "title": "Qual desses sistemas opeacionais não é baseado em kernel Linux",
+        "description": "Moleza em haha",
+        "answer": 2,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Ubuntu",
+           "Debian",
+           "BSD",
+           "Android"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Qual desses comandos não funcionam no Linux?",
+        "description": "Moleza em haha",
+        "answer": 3,
+        "alternatives": [
+           "ls",
+           "mkdir",
+           "cat",
+           "ipconfig"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "O comando ls é usado para criar arquivos no Linux",
+        "description": "Moleza em haha",
+        "answer": 1,
+        "alternatives": [
+           "Verdadeiro",
+           "Falso"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Qual desse não é uma interface de Linux?",
+        "description": "Moleza em haha",
+        "answer": 2,
+        "alternatives": [
+           "KDE Plasma",
+           "GNOME",
+           "Ubuntu",
+           "XFCE"
         ]
       }
     ],
+    
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
