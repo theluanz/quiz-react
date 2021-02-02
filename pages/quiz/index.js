@@ -8,6 +8,7 @@ import QuizContainer from '../../src/components/QuizContainer';
 import Button from '../../src/components/Button';
 import BackLinkArrow from '../../src/components/BackLinkArrow';
 import AlternativesForm from '../../src/components/AlternativesForm';
+import Loading from '../../src/components/Loading';
 
 function LoadingWidget() {
   return (
@@ -17,7 +18,7 @@ function LoadingWidget() {
       </Widget.Header>
 
       <Widget.Content>
-        [Desafio do Loading]
+        <Loading />
       </Widget.Content>
     </Widget>
   );
@@ -152,7 +153,7 @@ const screenStates = {
   RESULT: 'RESULT',
 };
 export default function QuizPage() {
- // console.log('per', db.questions);
+  // console.log('per', db.questions);
   const [screenState, setScreenState] = React.useState(screenStates.LOADING);
   const totalQuestions = db.questions.length;
   const [currentQuestion, setCurrentQuestion] = React.useState(0);
